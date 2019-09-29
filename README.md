@@ -27,7 +27,7 @@
 | Storage     | Intel          |              | Intel® Rapid Storage Technology                 | 17.7.0.1006                   |             |
 | Storage     | Samsung        |              | Samsung NVM Express Driver                      | 3.1.0.1901                    |             |
 | Thunderbolt | Intel          | JHL6540      | Thunderbolt(TM) Software                        | 17.4.79.11/17.4.79.510        | Standard    |
-| Touchpad    | Synaptics      |              | Synaptics SMBus Driver                          | 19.5.32.61 Clevo              | DCH/UAD     |
+| Touchpad    | Synaptics      |              | Synaptics SMBus Driver                          | 19.5.32.67 Clevo              | DCH/UAD     |
 | Wireless    | Intel          |              | Intel PROSet/Wireless Software                  | 21.40.2.2                     |             |
 | Other       | Intel          |              | Intel(R) HID Event Filter                       | 2.2.1.377                     |             |
 | Other       | Intel          |              | Intel(R) Software Guard Extensions              | 1.9.100.41172                 |             |
