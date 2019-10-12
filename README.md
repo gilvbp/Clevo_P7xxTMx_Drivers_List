@@ -14,6 +14,9 @@
 | Component   | Vendor         | Model        | Title                                           | Version                       | Driver Type |
 | ----------: | :------------- | :----------- | :---------------------------------------------- | :---------------------------- | :---------- |
 | Audio       | Realtek        | ALC898       | Realtek High Definition Audio Driver            | 6.0.8688.1 Clevo              | DCH/UAD     |
+| Audio       | Realtek        |              | Realtek Audio Effects Component                 | 11.0.6000.725                 | DCH/UAD     |
+| Audio       | Realtek        |              | Realtek Audio Universal Service                 | 1.0.0.204                     | DCH/UAD     |
+| Audio       | Realtek        |              | Realtek Hardware Support Application            | 11.0.6000.196                 | DCH/UAD     |
 | Audio       | Creative       |              | Speaker EQ                                      | 1.01.70 Clevo                 |             |
 | Audio       | Creative       |              | Audio Effects Component                         | 2.0.0.38 Clevo                | DCH/UAD     |
 | Bluetooth   | Intel          |              | Intel(R) Wireless Bluetooth(R)                  | 21.40.0.1                     |             |
@@ -30,7 +33,6 @@
 | Touchpad    | Synaptics      |              | Synaptics SMBus Driver                          | 19.5.32.67 Clevo              | DCH/UAD     |
 | Wireless    | Intel          |              | Intel PROSet/Wireless Software                  | 21.40.2.0                     |             |
 | Other       | Intel          |              | Intel(R) HID Event Filter                       | 2.2.1.377                     |             |
-| Other       | Intel          |              | Intel(R) Software Guard Extensions              | 1.9.100.41172                 |             |
 | Other       | Intel          |              | Intel(R) Software Guard Extensions              | 2.4.100.51291                 |             |
 | Other       | Intel          |              | Intel(R) Software Guard Extensions Device       | 2.4.100.51228                 |             |
 | Other       | Intel          |              | Intel(R) Trusted Execution Engine               | 1925.4.0.1063                 |             |
