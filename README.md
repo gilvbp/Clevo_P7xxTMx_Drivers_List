@@ -33,6 +33,8 @@
 | Touchpad    | Synaptics      |              | Synaptics SMBus Driver                          | 19.5.32.67 Clevo              | DCH/UAD     |
 | Wireless    | Intel          |              | Intel PROSet/Wireless Software                  | 21.40.2.0                     |             |
 | Other       | Intel          |              | Intel(R) HID Event Filter                       | 2.2.1.377                     |             |
-| Other       | Intel          |              | Intel(R) Software Guard Extensions              | 2.4.100.51291                 |             |
-| Other       | Intel          |              | Intel(R) Software Guard Extensions Device       | 2.4.100.51228                 |             |
+| Other       | Intel          |              | Intel(R) Software Guard Extensions              | 2.4.100.51291                 | DCH/UAD     |
+| Other       | Intel          |              | Intel(R) Software Guard Extensions Device       | 2.4.100.51228                 | DCH/UAD     |
 | Other       | Intel          |              | Intel(R) Trusted Execution Engine               | 1929.4.0.1070                 |             |
+| Other       | Intel          |              | Intel(R) Dynamic Application Loader             | 1.34.2019.0714                | DCH/UAD     |
+| Other       | Intel          |              | Intel(R) iCLS Client                            | 1.57.263.0                    | DCH/UAD     |
