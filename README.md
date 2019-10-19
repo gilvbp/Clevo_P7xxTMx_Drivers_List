@@ -35,4 +35,4 @@
 | Other       | Intel          |              | Intel(R) HID Event Filter                       | 2.2.1.377                     |             |
 | Other       | Intel          |              | Intel(R) Software Guard Extensions              | 2.4.100.51291                 |             |
 | Other       | Intel          |              | Intel(R) Software Guard Extensions Device       | 2.4.100.51228                 |             |
-| Other       | Intel          |              | Intel(R) Trusted Execution Engine               | 1925.4.0.1063                 |             |
+| Other       | Intel          |              | Intel(R) Trusted Execution Engine               | 1929.4.0.1070                 |             |
