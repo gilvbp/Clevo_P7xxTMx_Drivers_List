@@ -17,7 +17,7 @@
 | Audio        | Realtek        |              | Realtek Audio Effects Component                 | 11.0.6000.725                 | DCH/UAD     |
 | Audio        | Realtek        |              | Realtek Audio Universal Service                 | 1.0.0.204                     | DCH/UAD     |
 | Audio        | Realtek        |              | Realtek Hardware Support Application            | 11.0.6000.196                 | DCH/UAD     |
-| Audio        | Creative       |              | Speaker EQ                                      | 1.01.70 Clevo                 |             |
+| Audio        | Creative       |              | Speaker EQ Clevo                                | 1.01.72                       |             |
 | Audio        | Creative       |              | Audio Effects Component                         | 2.0.0.38 Clevo                | DCH/UAD     |
 | Bluetooth    | Intel          |              | Intel(R) Wireless Bluetooth(R)                  | 21.40.0.1                     |             |
 | Bluetooth    | Intel          |              | Intel(R) Wireless Bluetooth(R) Audio            | 17.1.1530.0031                |             |
