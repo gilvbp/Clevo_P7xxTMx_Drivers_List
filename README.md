@@ -22,7 +22,7 @@
 | Chipset              | Intel          |              | Intel(R) Management Engine Components           | 1914.12.0.1256/1923.12.0.1278 | Standard    |
 | Ethernet             | Rivet Networks | Killer E2500 | Killer Series PCI-E Gigabit Ethernet Controller | 9.0.0.49                      |             |
 | Fingerprint          | Synaptics      |              | Synaptics Fingerprint Sensor Driver             | 5.5.2707.1073 Clevo           | DCH/UAD     |
-| Graphics             | NVIDIA         |              | NVIDIA GeForce Software                         | 441.20/26.21.14.4120          | Standard    |
+| Graphics             | NVIDIA         |              | NVIDIA GeForce Software                         | 441.41/26.21.14.4141          | Standard    |
 | Storage              | Intel          |              | Intel® Rapid Storage Technology                 | 17.7.0.1006                   |             |
 | Storage              | Samsung        |              | Samsung NVM Express Driver                      | 3.2.0.1910                    |             |
 | Thunderbolt          | Intel          | JHL6540      | Thunderbolt(TM) Software                        | 17.4.79.11/17.4.79.510        | Standard    |
@@ -34,4 +34,4 @@
 | Audio SW Component   | Realtek        |              | Realtek Audio Universal Service                 | 1.0.0.210                     | DCH/UAD     |
 | Audio SW Component   | Realtek        |              | Realtek Hardware Support Application            | 11.0.6000.199                 | DCH/UAD     |
 | Audio SW Component   | Creative       |              | Audio Effects Component                         | 2.0.0.38 Clevo                | DCH/UAD     |
-| Chipset SW Component | Intel          |              | Intel(R) Software Guard Extensions              | 2.5.100.2                     | DCH/UAD     |
+| Chipset SW Component | Intel          |              | Intel(R) Software Guard Extensions Software     | 2.5.101.3                     | DCH/UAD     |
