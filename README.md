@@ -30,8 +30,17 @@
 | Wireless             | Intel          |              | Intel PROSet/Wireless Software                  | 21.40.2.0                     |             |
 | Other                | Intel          |              | Intel(R) HID Event Filter                       | 2.2.1.377                     |             |
 | Other                | Intel          |              | Intel(R) Software Guard Extensions Device       | 2.5.100.2                     |             |
+| Audio SW Component   | Realtek        |              | Realtek Audio Effects Component                 | 11.0.6000.680                 | DCH/UAD     |
+| Audio SW Component   | Realtek        |              | Realtek Audio Universal Service                 | 1.0.0.164                     | DCH/UAD     |
+| Audio SW Component   | Realtek        |              | Realtek Hardware Support Application            | 11.0.6000.177                 | DCH/UAD     |
+| Audio SW Component   | Creative       |              | Audio Effects Component                         | 2.0.0.38 Clevo                | DCH/UAD     |
+| Chipset SW Component | Intel          |              | Intel(R) Software Guard Extensions Software     | 2.5.101.3                     | DCH/UAD     |
+
+## Modify Audio Drivers Information
+
+| Component            | Vendor         | Model        | Title                                           | Version                       | Driver Type |
+| -------------------: | :------------- | :----------- | :---------------------------------------------- | :---------------------------- | :---------- |
+| Audio                | Realtek        | ALC898       | Realtek High Definition Audio Driver            | 6.0.8854.1 Clevo              | DCH/UAD     |
 | Audio SW Component   | Realtek        |              | Realtek Audio Effects Component                 | 11.0.6000.738                 | DCH/UAD     |
 | Audio SW Component   | Realtek        |              | Realtek Audio Universal Service                 | 1.0.0.222                     | DCH/UAD     |
 | Audio SW Component   | Realtek        |              | Realtek Hardware Support Application            | 11.0.6000.204                 | DCH/UAD     |
-| Audio SW Component   | Creative       |              | Audio Effects Component                         | 2.0.0.38 Clevo                | DCH/UAD     |
-| Chipset SW Component | Intel          |              | Intel(R) Software Guard Extensions Software     | 2.5.101.3                     | DCH/UAD     |
