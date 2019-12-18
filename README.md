@@ -45,12 +45,12 @@
 
 | Component               | Vendor         | Model        | Title                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :-------------------------------------------- | :---------------------------- | :---------- |
-| Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver          | 6.0.8854.1 Clevo              | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component               | 11.0.6000.738                 | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service               | 1.0.0.222                     | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Hardware Support Application          | 11.0.6000.204                 | DCH/UAD     |
-| Audio Component         | Realtek        |              | Realtek Audio Effects Component (INT)         | 11.0.6000.738                 |             |
+| Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver          | 6.0.8858.1 Clevo              | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component               | 11.0.6000.739                 | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service               | 1.0.0.224                     | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Hardware Support Application          | 11.0.6000.205                 | DCH/UAD     |
+| Audio Component         | Realtek        |              | Realtek Audio Effects Component (INT)         | 11.0.6000.739                 |             |
 | Audio Component         | Realtek        |              | Realtek Speech Preprocessing IP DLL Component | 1.0.24.718                    |             |
-| Audio Device Extensions | Realtek        |              | AlexaConfig/Realtek Device Extension          | 1.0.8854.1 Clevo              |             |
-| Audio Device Extensions | Realtek        |              | HDXRTExt/Realtek Device Extension             | 6.0.8854.1 Clevo              |             |
-| Audio Device Extensions | Realtek        |              | IntcDMicExt/Realtek Device Extension          | 09.21.3690.150 Clevo          |             |
+| Audio Device Extensions | Realtek        |              | AlexaConfig/Realtek Device Extension          | 1.0.8858.1 Clevo              |             |
+| Audio Device Extensions | Realtek        |              | HDXRTExt/Realtek Device Extension             | 6.0.8856.1 Clevo              |             |
+| Audio Device Extensions | Realtek        |              | IntcDMicExt/Realtek Device Extension          | 09.21.3690.151 Clevo          |             |
