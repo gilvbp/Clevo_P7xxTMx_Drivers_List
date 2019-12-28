@@ -28,6 +28,7 @@
 | Thunderbolt             | Intel          | JHL6540      | Thunderbolt(TM) Software                        | 17.4.80.94/17.4.80.550        | Standard    |
 | Touchpad                | Synaptics      |              | Synaptics SMBus Driver                          | 19.5.32.67 Clevo              | DCH/UAD     |
 | Wireless                | Intel          |              | Intel PROSet/Wireless Software                  | 21.40.2.0                     |             |
+| Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters               | 21.50.1.1                     |             |
 | Other                   | Intel          |              | Intel(R) HID Event Filter                       | 2.2.1.377                     |             |
 | Other                   | Intel          |              | Intel(R) Software Guard Extensions Device       | 2.5.100.2                     |             |
 | Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                 | 11.0.6000.680                 | DCH/UAD     |
