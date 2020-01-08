@@ -18,7 +18,7 @@
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R)                  | 21.60.0.4                     |             |
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R) Audio            | 17.1.1530.0031                |             |
 | CardReader              | Realtek        | RTS5227      | Realtek Card Reader                             | 10.0.18363.21327              |             |
-| Chipset                 | Intel          | Z370         | Intel(R) Chipset Device Software                | 10.1.18121.8164               |             |
+| Chipset                 | Intel          | Z370         | Intel(R) Chipset Device Software                | 10.1.11.4/10.1.18243.8188     |             |
 | Chipset                 | Intel          |              | Intel(R) Management Engine Components           | 1914.12.0.1256/1923.12.0.1278 | Standard    |
 | Ethernet                | Rivet Networks | Killer E2500 | Killer Series PCI-E Gigabit Ethernet Controller | 9.0.0.49                      |             |
 | Fingerprint             | Synaptics      |              | Synaptics Fingerprint Sensor Driver             | 5.5.2707.1073 Clevo           | DCH/UAD     |
