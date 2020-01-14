@@ -19,12 +19,12 @@
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R) Audio                          | 17.1.1530.0031                |             |
 | CardReader              | Realtek        | RTS5227      | Realtek Card Reader                                           | 10.0.18363.21327              |             |
 | Chipset                 | Intel          | Z370         | Intel(R) Chipset Device Software                              | 10.1.11.4/10.1.18243.8188     |             |
-| Chipset                 | Intel          |              | Intel(R) Management Engine Interface                          | 1931.14.0.1323                |             |
+| Chipset                 | Intel          |              | Intel(R) Management Engine Interface                          | 1952.14.0.1465                |             |
 | Ethernet                | Rivet Networks | Killer E2500 | Killer Series PCI-E Gigabit Ethernet Controller               | 9.0.0.49                      |             |
 | Fingerprint             | Synaptics      |              | Synaptics Fingerprint Sensor Driver                           | 5.5.2707.1073 Clevo           | DCH/UAD     |
 | Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 441.41/26.21.14.4141          | Standard    |
-| Storage                 | Intel          |              | Intel® Rapid Storage Technology User Interface                | 17.7.0.1006                   |             |
-| Storage                 | Intel          |              | Intel® Rapid Storage Technology Driver                        | 17.7.0.1006                   |             |
+| Storage                 | Intel          |              | Intel® Rapid Storage Technology User Interface                | 17.8.0.1065                   |             |
+| Storage                 | Intel          |              | Intel® Rapid Storage Technology Driver                        | 17.8.0.1065                   |             |
 | Storage                 | Samsung        |              | Samsung NVM Express Driver                                    | 3.2.0.1910                    |             |
 | Thunderbolt             | Intel          | JHL6540      | Thunderbolt(TM) Software                                      | 17.4.80.94/17.4.80.550        | Standard    |
 | Touchpad                | Synaptics      |              | Synaptics SMBus Driver                                        | 19.5.32.67 Clevo              | DCH/UAD     |
