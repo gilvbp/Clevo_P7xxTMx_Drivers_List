@@ -22,7 +22,7 @@
 | Chipset                 | Intel          |              | Intel(R) Management Engine Interface                          | 1952.14.0.1465                |             |
 | Ethernet                | Rivet Networks | Killer E2500 | Killer Series PCI-E Gigabit Ethernet Controller               | 9.0.0.49                      |             |
 | Fingerprint             | Synaptics      |              | Synaptics Fingerprint Sensor Driver                           | 5.5.2707.1073 Clevo           | DCH/UAD     |
-| Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 441.41/26.21.14.4141          | Standard    |
+| Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 441.87/26.21.14.4187          | Standard    |
 | Storage                 | Intel          |              | Intel® Rapid Storage Technology User Interface                | 17.8.0.1065                   |             |
 | Storage                 | Intel          |              | Intel® Rapid Storage Technology Driver                        | 17.8.0.1065                   |             |
 | Storage                 | Samsung        |              | Samsung NVM Express Driver                                    | 3.2.0.1910                    |             |
