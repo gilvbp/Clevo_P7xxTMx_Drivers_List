@@ -13,12 +13,13 @@
 
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
+| ACPI                    | Intel          |              | Intel(R) Extreme Tuning Utility Device Driver                 | 4.0.1.4                       |             |
 | Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver                          | 6.0.8688.1 Clevo              | DCH/UAD     |
 | Audio                   | Creative       |              | Speaker EQ Clevo                                              | 1.01.72                       |             |
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R)                                | 21.60.0.4                     |             |
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R) Audio                          | 17.1.1530.0031                |             |
 | CardReader              | Realtek        | RTS5227      | Realtek Card Reader                                           | 10.0.18363.21327              |             |
-| Chipset                 | Intel          | Z370         | Intel(R) Chipset Device Software                              | 10.1.11.4/10.1.18243.8188     |             |
+| Chipset                 | Intel          | Z370         | Intel(R) Chipset Device Software                              | 10.1.11.4/10.1.18263.8193     |             |
 | Chipset                 | Intel          |              | Intel(R) Management Engine Interface                          | 1952.14.0.1465                |             |
 | Ethernet                | Rivet Networks | Killer E2500 | Killer Series PCI-E Gigabit Ethernet Controller               | 9.0.0.49                      |             |
 | Fingerprint             | Synaptics      |              | Synaptics Fingerprint Sensor Driver                           | 5.5.2707.1073 Clevo           | DCH/UAD     |
