@@ -14,7 +14,6 @@
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
 | ACPI                    | Intel          |              | Intel(R) Extreme Tuning Utility Device Driver                 | 4.0.1.4                       |             |
-| Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver                          | 6.0.8688.1 Clevo              | DCH/UAD     |
 | Audio                   | Creative       |              | Speaker EQ Clevo                                              | 1.01.72                       |             |
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R)                                | 21.60.0.4                     |             |
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R) Audio                          | 17.1.1530.0031                |             |
@@ -33,19 +32,35 @@
 | Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters                             | 21.60.2.1                     |             |
 | Other                   | Intel          |              | Intel(R) HID Event Filter                                     | 2.2.1.377                     |             |
 | Other                   | Intel          |              | Intel(R) Software Guard Extensions Device                     | 2.5.100.2                     |             |
-| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                               | 11.0.6000.680                 | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service                               | 1.0.0.164                     | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Hardware Support Application                          | 11.0.6000.177                 | DCH/UAD     |
 | Audio SW Component      | Creative       |              | Audio Effects Component                                       | 2.0.0.38 Clevo                | DCH/UAD     |
 | Chipset SW Component    | Intel          |              | Intel(R) Software Guard Extensions Software                   | 2.5.101.3                     | DCH/UAD     |
 | Chipset SW Component    | Intel          |              | Intel(R) Dynamic Application Loader Host Interface            | 1.34.2019.0714                | DCH/UAD     |
 | Chipset SW Component    | Intel          |              | Intel(R) Management and Security Application Local Management | 1938.12.0.1316                | DCH/UAD     |
 
-## Modify Audio Drivers Information
+## Original Clevo Realtek Audio Drivers Information
 
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
-| Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver                          | 6.0.8868.1 Clevo              | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                               | 11.0.6000.743                 | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service                               | 1.0.0.230                     | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Hardware Support Application                          | 11.0.6000.209                 | DCH/UAD     |
+| Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver                          | 6.0.8688.1 Clevo              | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                               | 11.0.6000.680                 | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service                               | 1.0.0.164                     | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Hardware Support Application                          | 11.0.6000.177                 | DCH/UAD     |
+| Driver Component        | Realtek        |              | XSetup                                                        | 4.71.00/PG471                 |             |
+| Driver Component        | Realtek        |              | AlexaCfgExt                                                   | 1.0.8688.1 Clevo              |             |
+| Driver Component        | Realtek        |              | ExtRtk                                                        | 6.0.8688.1 Clevo              |             |
+| Driver Component        | Realtek        |              | ExtRtk_IntPCH                                                 | 09.21.3690.85 Clevo           |             |
+| Driver Component        | Realtek        |              | RealtekSstPpDll                                               | 1.0.21.676                    |             |
+
+## Modify Clevo Realtek Audio Drivers Information
+
+| Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
+| ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
+| Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver                          | 6.0.8688.1 Clevo              | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                               | 11.0.6000.746                 | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service                               | 1.0.0.236                     | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Hardware Support Application                          | 11.0.6000.211                 | DCH/UAD     |
+| Driver Component        | Realtek        |              | XSetup                                                        | 4.75.00/PG475                 |             |
+| Driver Component        | Realtek        |              | AlexaCfgExt                                                   | 1.0.8865.1 Clevo              |             |
+| Driver Component        | Realtek        |              | ExtRtk                                                        | 6.0.8688.1 Clevo              |             |
+| Driver Component        | Realtek        |              | ExtRtk_IntPCH                                                 | 09.21.3690.153 Clevo          |             |
+| Driver Component        | Realtek        |              | RealtekSstPpDll                                               | 1.0.24.718                    |             |
