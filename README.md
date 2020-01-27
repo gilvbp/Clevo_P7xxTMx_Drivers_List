@@ -32,12 +32,12 @@
 | Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters                             | 21.60.2.1                     |             |
 | Other                   | Intel          |              | Intel(R) HID Event Filter                                     | 2.2.1.377                     |             |
 | Other                   | Intel          |              | Intel(R) Software Guard Extensions Device                     | 2.5.100.2                     |             |
-| Audio SW Component      | Creative       |              | Creative Audio Effects Component                              | 2.0.0.38                      | DCH/UAD     |
+| Audio SW Component      | Creative       |              | Creative Audio Effects Component                              | 2.0.0.40                      | DCH/UAD     |
 | Audio SW Component      | Creative       |              | Creative Device Extension                                     | 2.0.0.38                      |             |
 | Audio SW Component      | Creative       |              | Creative Sound Blaster Connect                                | 2.2.8.0                       | DCH/UAD     |
 | Chipset SW Component    | Intel          |              | Intel(R) Software Guard Extensions Software                   | 2.5.101.3                     | DCH/UAD     |
 | Chipset SW Component    | Intel          |              | Intel(R) Dynamic Application Loader Host Interface            | 1.34.2019.0714                | DCH/UAD     |
-| Chipset SW Component    | Intel          |              | Intel(R) Management and Security Application Local Management | 1938.12.0.1316                | DCH/UAD     |
+| Chipset SW Component    | Intel          |              | Intel(R) Management and Security Application Local Management | 1946.12.0.1327                | DCH/UAD     |
 
 ## Original Clevo Realtek Audio Drivers Information
 
